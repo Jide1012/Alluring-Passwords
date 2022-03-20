@@ -41,7 +41,7 @@ function getCombinedArrays() {
 
   return finalCharacterArray;
 }
-
+//Generator functions
 function init() {
   passwordInfo.reset();
 
